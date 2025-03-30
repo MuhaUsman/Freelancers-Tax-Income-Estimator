@@ -30,7 +30,8 @@ st.markdown("""
     .main {padding: 2rem;}
     .stButton>button {width: 100%;}
     .tax-tip {
-        background-color: #f0f2f6;
+        background-color: #2f3640;
+        color: white;
         padding: 1rem;
         border-radius: 0.5rem;
         margin: 0.5rem 0;
